@@ -121,3 +121,7 @@ strong {
   font-weight: 900;
   font-size: 48px;
 }
+
+iframe.video {
+	border: none;
+}
